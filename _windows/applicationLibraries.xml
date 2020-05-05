@@ -3,8 +3,10 @@
     <library name="log4j-api-2.13.0">
       <CLASSES>
         <root url="jar://E:/ProgaEpam/Lab1/lib/log4j-api-2.13.0.jar!/" />
-        <root url="jar://E:/ProgaEpam/Lab1/lib/log4j-core-2.13.0.jar!/" />
         <root url="jar://E:/ProgaEpam/Lab1/lib/ojdbc10.jar!/" />
+        <root url="jar://E:/ProgaEpam/Lab1/lib/spring-boot-maven-plugin-2.0.0.M1.jar!/" />
+        <root url="jar://E:/ProgaEpam/Lab1/lib/spring-dao-2.0.8.jar!/" />
+        <root url="jar://E:/ProgaEpam/Lab1/lib/log4j-core-2.13.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
