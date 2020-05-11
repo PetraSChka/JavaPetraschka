@@ -1,0 +1,4 @@
+2020 -05-06  20:40:32  [main] INFO  by.epam.hotel.dao.Controller - 0 OBJECTS READ SUCCESSFULLY
+2020 -05-06  20:41:21  [main] INFO  by.epam.hotel.dao.Controller - 0 OBJECTS READ SUCCESSFULLY
+2020 -05-06  20:41:42  [main] INFO  by.epam.hotel.dao.Controller - Client{name: Artem; surname: Petraschka; phone number: ++3; age: 18; gender: MALE; class of apartamnet: Lux; date of seats: null; number of person: '3'} ADDED
+2020 -05-06  20:42:02  [main] INFO  by.epam.hotel.dao.Controller - 1 OBJECTS SAVED
