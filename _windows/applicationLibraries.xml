@@ -18,5 +18,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="log4j-core-2.13.1">
+      <CLASSES>
+        <root url="jar://E:/Proga/Laba55/lib/log4j-core-2.13.1.jar!/" />
+        <root url="jar://E:/Proga/Laba55/lib/log4j-api-2.13.1.jar!/" />
+        <root url="jar://E:/Proga/Laba55/lib/testng-7.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
